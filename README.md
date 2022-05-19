@@ -3,7 +3,7 @@
 Clone this respository
 
 ```bash
-  git clone https://github.com/carloscdev/python-ascii-art
+  git clone https://github.com/carloscdev/python-ascii-art.git
 ```
 
 Create a virtual enviroment
